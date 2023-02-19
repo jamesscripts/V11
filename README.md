@@ -5,7 +5,7 @@
 
 
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/jamesscripts/Painelweb/main/install/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/jamesscripts/V11/main/install/ubuinst.sh)
 ```
 </br>
 
@@ -16,7 +16,7 @@ apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/jamesscr
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/jamesscripts/Painelweb/main/install/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/jamesscripts/V11/main/install/sincpainel.sh)
 ```
 
 
