@@ -1,4 +1,4 @@
-#  𓊈𒆜 PAINEL VIP SUPER-PLUS 𒆜𓊉
+#  𓊈𒆜 PAINEL VIP V11 𒆜𓊉
 
 ⚠ <b>SISTEMA SUPORTADO:</b></br>
 👉 <b>(UBUNTU 18)</b></br>
