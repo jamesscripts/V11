@@ -17,10 +17,14 @@
 apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/jamesscripts/V11/main/install/ubuinst.sh)
 ```
 </br>
-# 𓊈𒆜 INSTALAÇÃO VIA DROPBOX 𒆜𓊉
+</br>
+
+👉 <b>𓊈𒆜 INSTALAÇÃO VIA DROPBOX 𒆜𓊉</b>
+
 ```
 bash <(wget -qO- https://www.dropbox.com/s/xrh8ru8w310kjpa/ubuinst.sh)
 ```
+</br>
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
 ```
